@@ -1,0 +1,36 @@
+In player class add logic when ace is delt to player to ask if player wants ace to be 1 or 11 and update value accordingly for hand
+
+print players cards under dealers cards at final screen - (display players full hand at end of hand)
+
+impliment client (pi) player code adapted from user (server) player code logic
+
+if player gets 21 switch to dealer and do not give option to hit or stay again
+
+impliment looped hands with sentinal funtion to ask if player wishes to continue after every hand
+
+-impliment cleint player locally so values are sent locally then to be adapted over sockets
+
+add 2 client players for a toal of 3 players and the delaer (house):
+
+-impliment player turns
+
+
+impliment hand edge cases:
+
+-split
+
+-double down
+
+-etc
+
+
+
+####
+
+if want and time 
+
+-implimet pot so each player has starting amount of money and can bet against eachoter 
+
+
+
+video for citation: https://www.youtube.com/watch?v=PljDuynF-j0
